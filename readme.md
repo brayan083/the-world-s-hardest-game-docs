@@ -1,5 +1,4 @@
-# El juego más difícil del mundo
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/brayan083/El-juego-mas-dificil-del-mundo)
+
 
 ## Introduction
 "El juego más difícil del mundo" is a challenging 2D game where the player navigates a series of levels filled with obstacles and coins. The objective is to collect all coins in a level and then reach the goal area to advance to the next. The game lives up to its name with tricky moving obstacles that require precise timing and movement.
